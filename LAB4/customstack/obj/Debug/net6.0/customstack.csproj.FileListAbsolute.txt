@@ -1,0 +1,30 @@
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\bin\Debug\net6.0\customstack.exe
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\bin\Debug\net6.0\customstack.deps.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\bin\Debug\net6.0\customstack.runtimeconfig.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\bin\Debug\net6.0\customstack.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\bin\Debug\net6.0\customstack.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\obj\Debug\net6.0\customstack.csproj.AssemblyReference.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\obj\Debug\net6.0\customstack.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\obj\Debug\net6.0\customstack.AssemblyInfoInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\obj\Debug\net6.0\customstack.AssemblyInfo.cs
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\obj\Debug\net6.0\customstack.csproj.CoreCompileInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\obj\Debug\net6.0\customstack.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\obj\Debug\net6.0\refint\customstack.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\obj\Debug\net6.0\customstack.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\obj\Debug\net6.0\customstack.genruntimeconfig.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab4\customstack\obj\Debug\net6.0\ref\customstack.dll
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\bin\Debug\net6.0\customstack.exe
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\bin\Debug\net6.0\customstack.deps.json
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\bin\Debug\net6.0\customstack.runtimeconfig.json
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\bin\Debug\net6.0\customstack.dll
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\bin\Debug\net6.0\customstack.pdb
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\obj\Debug\net6.0\customstack.csproj.AssemblyReference.cache
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\obj\Debug\net6.0\customstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\obj\Debug\net6.0\customstack.AssemblyInfoInputs.cache
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\obj\Debug\net6.0\customstack.AssemblyInfo.cs
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\obj\Debug\net6.0\customstack.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\obj\Debug\net6.0\customstack.dll
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\obj\Debug\net6.0\refint\customstack.dll
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\obj\Debug\net6.0\customstack.pdb
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\obj\Debug\net6.0\customstack.genruntimeconfig.cache
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab4\customstack\obj\Debug\net6.0\ref\customstack.dll
