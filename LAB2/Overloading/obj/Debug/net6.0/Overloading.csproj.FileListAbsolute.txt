@@ -1,0 +1,30 @@
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\bin\Debug\net6.0\Overloading.exe
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\bin\Debug\net6.0\Overloading.deps.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\bin\Debug\net6.0\Overloading.runtimeconfig.json
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\bin\Debug\net6.0\Overloading.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\bin\Debug\net6.0\Overloading.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\obj\Debug\net6.0\Overloading.csproj.AssemblyReference.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\obj\Debug\net6.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\obj\Debug\net6.0\Overloading.AssemblyInfoInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\obj\Debug\net6.0\Overloading.AssemblyInfo.cs
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\obj\Debug\net6.0\Overloading.csproj.CoreCompileInputs.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\obj\Debug\net6.0\Overloading.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\obj\Debug\net6.0\refint\Overloading.dll
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\obj\Debug\net6.0\Overloading.pdb
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\obj\Debug\net6.0\Overloading.genruntimeconfig.cache
+E:\New folder\college material\VI\Net-Centric-Computing\lab\ncclab\lab2\Overloading\obj\Debug\net6.0\ref\Overloading.dll
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\bin\Debug\net6.0\Overloading.exe
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\bin\Debug\net6.0\Overloading.deps.json
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\bin\Debug\net6.0\Overloading.runtimeconfig.json
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\bin\Debug\net6.0\Overloading.dll
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\bin\Debug\net6.0\Overloading.pdb
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\obj\Debug\net6.0\Overloading.csproj.AssemblyReference.cache
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\obj\Debug\net6.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\obj\Debug\net6.0\Overloading.AssemblyInfoInputs.cache
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\obj\Debug\net6.0\Overloading.AssemblyInfo.cs
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\obj\Debug\net6.0\Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\obj\Debug\net6.0\Overloading.dll
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\obj\Debug\net6.0\refint\Overloading.dll
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\obj\Debug\net6.0\Overloading.pdb
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\obj\Debug\net6.0\Overloading.genruntimeconfig.cache
+C:\Users\Bibek\Desktop\NCCLabPrograms\lab2\Overloading\obj\Debug\net6.0\ref\Overloading.dll
